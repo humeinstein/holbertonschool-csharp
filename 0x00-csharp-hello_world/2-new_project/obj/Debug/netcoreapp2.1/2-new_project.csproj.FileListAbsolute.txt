@@ -1,0 +1,11 @@
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/bin/Debug/netcoreapp2.1/2-new_project.deps.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/bin/Debug/netcoreapp2.1/2-new_project.runtimeconfig.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/bin/Debug/netcoreapp2.1/2-new_project.runtimeconfig.dev.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/bin/Debug/netcoreapp2.1/2-new_project.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/bin/Debug/netcoreapp2.1/2-new_project.pdb
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.csprojAssemblyReference.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.csproj.CoreCompileInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.AssemblyInfoInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.AssemblyInfo.cs
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.pdb

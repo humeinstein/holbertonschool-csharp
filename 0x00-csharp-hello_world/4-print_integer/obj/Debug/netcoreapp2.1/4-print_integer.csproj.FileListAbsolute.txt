@@ -1,0 +1,11 @@
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.deps.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.runtimeconfig.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.runtimeconfig.dev.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.pdb
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csprojAssemblyReference.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csproj.CoreCompileInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfoInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfo.cs
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.pdb

@@ -8,6 +8,5 @@ class Program
 		double currency = 98765.4321;
 		Console.WriteLine("Percent: " + percent.ToString("0.00%"));
 		Console.WriteLine("Currency: " + currency.ToString("C"));
-
 	}
 }

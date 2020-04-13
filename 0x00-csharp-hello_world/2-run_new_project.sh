@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-dotnet new console -o 4-print_integer
-dotnet build 4-print_integer
+dotnet new console -o 2-run_new_project
+dotnet build 2-run_new_project

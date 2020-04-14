@@ -9,7 +9,7 @@ class Program
 	int last = number % 10;
 	string status = " ";
 
-	if (last < 6) { status = " and is less than 6 and not zero"; }
+	if (last < 6) { status = " and is less than 6 and not 0"; }
 	else if (last > 5) { status = " and is greater than 5"; }
 	else { status = " and is 0"; }
 

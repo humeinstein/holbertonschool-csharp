@@ -10,10 +10,10 @@ class MyQueue {
         if (aQueue.Count <= 0) { Console.WriteLine("Queue is empty"); }
         else { Console.WriteLine("First item: {0}", aQueue.Peek()); }
 
-        if (aQueue.Contains(search)) { Console.WriteLine("Queue contains \"{0}\": True", search); while (aQueue.Dequeue() != search) ; }
+        if (aQueue.Contains(search)) { Console.WriteLine("Queue contains \"{0}\": True", search); 
+        while (aQueue.Dequeue() != search) ; }
         else { Console.WriteLine("Queue contains \"{0}\": False", search); }
 
-        //while (aQueue.Dequeue() != search) ;
         aQueue.Enqueue(newItem);
         return aQueue;
     }

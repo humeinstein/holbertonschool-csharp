@@ -1,0 +1,11 @@
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/bin/Debug/netcoreapp2.1/3-stack_push_pop.cs.deps.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/bin/Debug/netcoreapp2.1/3-stack_push_pop.cs.runtimeconfig.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/bin/Debug/netcoreapp2.1/3-stack_push_pop.cs.runtimeconfig.dev.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/bin/Debug/netcoreapp2.1/3-stack_push_pop.cs.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/bin/Debug/netcoreapp2.1/3-stack_push_pop.cs.pdb
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/obj/Debug/netcoreapp2.1/3-stack_push_pop.cs.csprojAssemblyReference.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/obj/Debug/netcoreapp2.1/3-stack_push_pop.cs.csproj.CoreCompileInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/obj/Debug/netcoreapp2.1/3-stack_push_pop.cs.AssemblyInfoInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/obj/Debug/netcoreapp2.1/3-stack_push_pop.cs.AssemblyInfo.cs
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/obj/Debug/netcoreapp2.1/3-stack_push_pop.cs.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/3-stack_push_pop.cs/obj/Debug/netcoreapp2.1/3-stack_push_pop.cs.pdb

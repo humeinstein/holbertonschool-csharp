@@ -13,7 +13,6 @@ class MyStack {
         while (aStack.Pop() != search) ; }
         else { Console.WriteLine("Stack contains \"{0}\": False", search); }
 
-        //while (aStack.Pop() != search);
         aStack.Push(newItem);
         return aStack;
     }

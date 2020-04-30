@@ -2,7 +2,7 @@
 
 namespace Enemies
 {
-    /// <summary>comment test</summary>
-    class zombie for which we will have health
+    ///<summary>comment test</summary>
+    class zombie {
     public class Zombie { }
 }

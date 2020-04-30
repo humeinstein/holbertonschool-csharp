@@ -1,0 +1,11 @@
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.deps.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.runtimeconfig.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.runtimeconfig.dev.json
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.pdb
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csprojAssemblyReference.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csproj.CoreCompileInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.AssemblyInfoInputs.cache
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.AssemblyInfo.cs
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.dll
+/Users/macbook/HOLBERTON/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.pdb

@@ -19,6 +19,7 @@ namespace Enemies
 
         }
 
+        ///<summary>getHealth Method returns health of current zombie requesting</summary>
          public int GetHealth() {
             return this.health;
         }

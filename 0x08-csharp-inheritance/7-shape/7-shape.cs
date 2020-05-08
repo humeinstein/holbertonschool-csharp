@@ -25,6 +25,9 @@ class Rectangle: Shape {
             else { height = value; }
         }
     }
+    public new int Area() {
+        return width * height;
+    }
     public override string ToString() {
         string str = "[Rectangle] " + width + " / " + height;
         return str;
